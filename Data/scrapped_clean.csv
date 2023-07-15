@@ -1,4 +1,4 @@
-year_film,year_ceremony,ceremony,category,name,film,duration,score
+Film year,Ceremony year,Ceremony number,Winning category,Winner name,Film title,Film Duration,Film score
 1927,1928,1,Actor,Emil Jannings,The Last Command,88,"8,0"
 1927,1928,1,Art Direction,William Cameron Menzies,The Dove;,90,"6,5"
 1927,1928,1,Cinematography,Charles Rosher,Sunrise,94,"8,1"
