@@ -28,6 +28,8 @@ When my scraping finished, I did a bit of cleaning of my CSV. I removed the null
 
 ## Step 3: Visualization
 
+I created some graphs to visualize my data and take conclusions. This were the steps I took:
+
 * **Analyzing our movies' durations:**
 
 First, I wanted to check if the duration of our movies followed a normal distribution. To do this, I first took out from my dataframe some movies that belonged to categories that weren't movies, like documentaries and/or short subjects (there were just a few), as well as films under 40 mins, so we could really analyze those elements that were actually films. 
