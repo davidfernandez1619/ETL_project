@@ -36,7 +36,7 @@ After this, I made a graphic to show our movies duration distribution (histogram
 
 * **Analyzing our movies' scores:**
 
-We followed the exact same processs with our movies scores; we made a histogram for the distribution of the scores and a bar graphic for the evolution of the films scores per decades.  
+I followed the exact same processs with our movies scores; I made a histogram for the distribution of the scores and a bar graphic for the evolution of the films scores per decades.  
 
 * **Analyzing the relationship between both concepts:**
 
