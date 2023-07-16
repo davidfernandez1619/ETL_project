@@ -14,7 +14,7 @@ Let's go to our project!
 
 I found a CSV on [Kaggle](https://www.kaggle.com/), containing all the Oscar-winning movies from 1928 to 2023, including the winners and nominees. 
 
-It was very complete, but it needed a little bit of cleaning. So I took out the nominees, deleted the null values, and dropped some columns to focus on those that were relevant to my project. You can see this process in the files '1-Cleaning_Oscars_csv', inside the 'Notebooks' directory.  
+It was very complete, but it needed a little bit of cleaning. So I took out the nominees, deleted the null values, and dropped some columns to focus on those that were relevant to my project. You can see this process in the files ['1-Cleaning_Oscars_csv'](https://github.com/davidfernandez1619/ETL_project/blob/main/Notebooks/1-Cleaning_Oscars_csv.ipynb), inside the 'Notebooks' directory.  
 
 ## Step 2: Web scraping and more cleaning
 
