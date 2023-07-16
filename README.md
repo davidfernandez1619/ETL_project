@@ -32,13 +32,24 @@ When my scraping finished, I did a bit of cleaning of my CSV. I removed the null
 
 First, I wanted to check if the duration of our movies followed a normal distribution. To do this, I first took out from my dataframe some movies that belonged to categories that weren't movies, like documentaries and/or short subjects (there were just a few), as well as films under 40 mins, so we could really analyze those elements that were actually films. 
 
-After this, I made a graphic to show our movies duration distribution, and another to show how the average of our films durations had varied over time (per decades). 
+After this, I made a graphic to show our movies duration distribution (histogram), and another to show how the average of our films durations had varied per decades (bar graphic). 
 
 * **Analyzing our movies' scores:**
 
-We followed the exact same processs with our movies scores; we made two graphics: one for the distribution of the scores and another for the evolution of the films scores per decades.  
+We followed the exact same processs with our movies scores; we made a histogram for the distribution of the scores and a bar graphic for the evolution of the films scores per decades.  
 
-* **Analyzing the relationship between both concepts**
+* **Analyzing the relationship between both concepts:**
+
+Next, I wanted to check if there is any correlation between a movie's duration and its score. For this, I created a scatter plot with our movies durations and scores, and calculated the correlation between both concepts. 
+
+* **Analyzing our movies' categories:**
+
+I was curious to check which, of all the winning categories our CSV had (105) were the ones that appeared most times, meaning that they were the most awarded categories. To get this data, I counted every category, and selected the 10 most appearing ones. 
+
+Finally, based on this top 10 categories, I created a bar graphic to show which category had the highest score mean of its movies. 
+
+## Conclusion
+
 
 
 
