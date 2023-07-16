@@ -48,7 +48,7 @@ Next, I wanted to check if there is any correlation between a movie's duration a
 
 I was curious to check which, of all the winning categories our CSV had (105) were the ones that appeared most times, meaning that they were the most awarded categories. To get this data, I counted every category, and selected the 10 most appearing ones. 
 
-Finally, based on this top 10 categories, I created a bar graphic to show which category had the highest score mean of its movies. 
+Finally, based on this top 10 categories, I created a bar graphic to show which category had the highest score mean of all the movies belonging to it. 
 
 ## Conclusion
 
