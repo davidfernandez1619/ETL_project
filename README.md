@@ -88,7 +88,9 @@ As we can see in the following graphic, these are the top 10 most awarded catego
 
 'Directing' appears the highest number of times, followed of 'Film editing' and 'Actress in a supporting role'. 
 
-In this graphic, we can see that also the category 'Directing' has the highest score average of its movies, only second to 'Best Picture'. 
+In this graphic, we can see that also the category 'Directing' has the highest score average of its movies, only second to 'Best Picture'.
+
+![image](https://github.com/davidfernandez1619/ETL_project/assets/38441372/f673cd07-8375-4fb7-97a2-254108a18176)
 
 ## Next steps
 
