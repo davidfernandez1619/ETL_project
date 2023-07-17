@@ -54,7 +54,7 @@ If you want to see the whole process of creating all the graphics, check the fil
 
 Also, you can visit all my CSVs in the ['Data' directory](https://github.com/davidfernandez1619/ETL_project/tree/main/Data). 
 
-## Conclusion
+## Conclusions
 
 Based on the graphics I created, I could draw the following conclusions:
 
