@@ -109,7 +109,7 @@ In this graphic, we can see that also the category 'Directing' has the highest s
 * **MySQL**
 * **Matplotlib**
 
-
+Thank you!
 
 
 
