@@ -50,7 +50,53 @@ I was curious to check which, of all the winning categories our CSV had (105) we
 
 Finally, based on this top 10 categories, I created a bar graphic to show which category had the highest score mean of all the movies belonging to it. 
 
+If you want to see the whole process of creating all the graphics, check the file [5-Visualization](https://github.com/davidfernandez1619/ETL_project/blob/main/Notebooks/5-Visualization.ipynb) in the 'Notebook' file. 
+
+Also, you can visit all my CSVs in the ['Data' directory](https://github.com/davidfernandez1619/ETL_project/tree/main/Data). 
+
 ## Conclusion
+
+Based on the graphics I created, I could draw the following conclusions:
+
+* **The duration and score of the Oscar-winning movies have increased over time:**
+
+Here you can see the evolution of duration per decades:
+
+![image](https://github.com/davidfernandez1619/ETL_project/assets/38441372/c8da65f4-de16-4a69-a117-124fa9955524)
+
+As we can see, the duration of movies grew from the 1920s, peaked in the 1960s and has pretty much stayed the same since then, although they suffered some decrement in the 2010s. 
+
+And here you can observe the evolution of score per decades:
+
+![image](https://github.com/davidfernandez1619/ETL_project/assets/38441372/5094c4e1-908c-4a60-bc84-4728a73bb709)
+
+As the graphic shows, the mean of the score of movies has slowly and gradually grown from the 1920s until the 1990s, and stayed more or less stable since then. 
+
+* **There's barely correlation between the score and duration of movies:**
+
+Having analyzed score and duration, I wanted to check if there was any correlation between the score and duration of a movie, so I created a scatter plot: 
+
+![image](https://github.com/davidfernandez1619/ETL_project/assets/38441372/667d9862-a956-4af9-aadc-9602665f13dc)
+
+The correlation between both concepts is 0.37, so we can conclude that there is barely any correlation between the score and duration of a movie. 
+
+* **'Directing' is both the most awarded category, and its movies have one of the higest 'score' average**
+
+As we can see in the following graphic, these are the top 10 most awarded categories in the Oscars, meaning that they appeared the most times in our CSV:
+
+![image](https://github.com/davidfernandez1619/ETL_project/assets/38441372/4e6b22ca-27cd-4d78-b013-c256991af8cd)
+
+'Directing' appears the highest number of times, followed of 'Film editing' and 'Actress in a supporting role'. 
+
+In this graphic, we can see that also the category 'Directing' has the highest score average of its movies, only second to 'Best Picture'. 
+
+## Next steps
+
+* To expand this analysis to 
+
+
+## Tools
+
 
 
 
