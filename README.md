@@ -102,12 +102,12 @@ In this graphic, we can see that also the category 'Directing' has the highest s
 
 ## Tools used for this project
 
-* **Python**
-* **Pandas**
-* **Numpy**
-* **Selenium**
-* **MySQL**
-* **Matplotlib**
+* [**Python**](https://www.python.org/)
+* [**Pandas**](https://pandas.pydata.org/)
+* [**Numpy**](https://numpy.org/)
+* [**Selenium**](https://www.selenium.dev/)
+* [**MySQL**](https://www.mysql.com/)
+* [**Matplotlib**](https://matplotlib.org/)
 
 Thank you!
 
