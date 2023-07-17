@@ -92,10 +92,15 @@ In this graphic, we can see that also the category 'Directing' has the highest s
 
 ## Next steps
 
-* To expand this analysis to 
+* To expand this analysis to other cinematic awards. We could see if we get very different results if we focus on movies that won the Golden Globes, Emmy or BAFTA, for example.
 
+* To add new data to our CSV, like 'movie popularity', 'movie genre', 'nominees' or 'box office', and make new connections between them, to answer questions like: what genres raise the most money? is the movie popularity of the nominees the same as the winner ones? is a movie popularity correlated with its box office?
+
+* Focus on non-awarded movies. Does the data change a lot between awarded and non-awarded movies? We could take a random sample of awarded and non-awarded films per decade, and compare them according to the parameters used on this project. 
 
 ## Tools
+
+
 
 
 
