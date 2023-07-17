@@ -80,7 +80,7 @@ Having analyzed score and duration, I wanted to check if there was any correlati
 
 The correlation between both concepts is 0.37, so we can conclude that there is barely any correlation between the score and duration of a movie. 
 
-* **'Directing' is both the most awarded category, and its movies have one of the higest 'score' average**
+* **'Directing' is both the most awarded category, and the movies belonging to this category have one of the higest 'score' average**
 
 As we can see in the following graphic, these are the top 10 most awarded categories in the Oscars, meaning that they appeared the most times in our CSV:
 
