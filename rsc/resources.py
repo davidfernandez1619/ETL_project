@@ -104,12 +104,3 @@ def capitalize_words(value):
     result = ' '.join(capitalized_words)
     return result
 
-
-# In[1]:
-
-
-import os
-
-current_directory = os.getcwd()
-print(current_directory)
-
