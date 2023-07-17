@@ -100,8 +100,14 @@ In this graphic, we can see that also the category 'Directing' has the highest s
 
 * Focus on non-awarded movies. Does the data change a lot between awarded and non-awarded movies? We could take a random sample of awarded and non-awarded films per decade, and compare them according to the parameters used on this project. 
 
-## Tools
+## Tools used for this project
 
+* **Python**
+* **Pandas**
+* **Numpy**
+* **Selenium**
+* **MySQL**
+* **Matplotlib**
 
 
 
